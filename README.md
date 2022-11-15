@@ -40,7 +40,10 @@
 
 
 Journal :
- Jour 1 :  création du fichier main et importation de toute les bibliotheca 
+
+
+
+Jour 1 :  création du fichier main et importation de toute les bibliotheca 
 
 Jour 2 : abandon de l’interface graphique donc je commence l’importation des pions et leur mouvement 
 
