@@ -54,7 +54,7 @@ Jour 4 : je fini les mouvement
 Jour 5 : création des thèmes  
 
 
-Jour 6 :création de la touche pour restant la game 
+Jour 6 :création de la touche pour restart la game 
 
 
 Jour 7 : apprentissage du reinceforcement learning 
