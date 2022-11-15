@@ -39,7 +39,7 @@
 
 
 
-Journal :
+<h1 align="center">JOURNAL 📰</h1>
 
 
 
