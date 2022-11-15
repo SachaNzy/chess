@@ -36,3 +36,24 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+Journal :
+ Jour 1 :  création du fichier main et importation de toute les bibliotheca 
+
+Jour 2 : abandon de l’interface graphique donc je commence l’importation des pions et leur mouvement 
+
+Jour 3 : création des possibilité de mouvement 
+
+Jour 4 : je fini les mouvement 
+
+Jour 5 : création des thèmes  
+
+
+Jour 6 :création de la touche pour restant la game 
+
+
+Jour 7 : apprentissage du reinceforcement learning 
+
+Jour 8 : abandon de l’apprentissage et création de contour lorsque la souris passe sur la case 
