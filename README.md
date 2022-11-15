@@ -60,3 +60,5 @@ Jour 6 :création de la touche pour restart la game
 Jour 7 : apprentissage du reinceforcement learning 
 
 Jour 8 : abandon de l’apprentissage et création de contour lorsque la souris passe sur la case 
+
+jour 9 a 11 : perfectioner le jeu comme ajout de son etc...
