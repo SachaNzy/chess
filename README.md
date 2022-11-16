@@ -62,3 +62,17 @@ Jour 7 : apprentissage du reinceforcement learning
 Jour 8 : abandon de l’apprentissage et création de contour lorsque la souris passe sur la case 
 
 jour 9 a 11 : perfectioner le jeu comme ajout de son etc...
+
+
+
+
+
+<h1 align="center">INSPIRATION</h1>
+
+https://www.youtube.com/watch?v=pz1_32WYlD8&t=2488s&ab_channel=Rex
+
+
+https://levelup.gitconnected.com/chess-python-ca4532c7f5a4
+
+
+
