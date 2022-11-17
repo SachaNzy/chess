@@ -9,6 +9,20 @@
 
 - ceci est un jeu d'echec ordinaire avec quelque specifictés : 
 
+- le jeu s'execute dans la fichier main.py
+
+- les themes sont appelés dans le fichier theme.py mais construit dans le fichier config.py
+
+- plateau : board.py
+
+- piece : piece.py
+
+-sound : sound.py
+
+- game : game.py
+
+- couleur : color.py
+- 
 - pouvoir redémarrer la partie en cliquant sur la touche 'esc' 
 
 - pouvoir changer de thèmes en cliquant sur la touche 'barre d'espace ' 
