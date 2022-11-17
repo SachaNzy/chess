@@ -9,9 +9,9 @@
 
 - ceci est un jeu d'echec ordinaire avec quelque specifictés : 
 
-- pouvoir redémarrer la partie en cliquant sur la touche 'r' 
+- pouvoir redémarrer la partie en cliquant sur la touche 'esc' 
 
-- pouvoir changer de thèmes en cliquant sur la touche 't' 
+- pouvoir changer de thèmes en cliquant sur la touche 'barre d'espace ' 
 
 - lorsqu'un pion atteint la derniere case celui ci se transforme en reine 
 
