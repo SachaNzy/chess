@@ -43,13 +43,6 @@
 
 - Le premier à réussir à bloquer le Roi de son adversaire a gagné !
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://instagram.com/sacha_sitbon_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sacha_sitbon_" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 
@@ -87,5 +80,14 @@ https://www.youtube.com/watch?v=pz1_32WYlD8&t=2488s&ab_channel=Rex
 
 https://levelup.gitconnected.com/chess-python-ca4532c7f5a4
 
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://instagram.com/sacha_sitbon_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sacha_sitbon_" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
