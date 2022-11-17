@@ -51,10 +51,9 @@ Jour 3 : création des possibilité de mouvement
 
 Jour 4 : je fini les mouvement 
 
-Jour 5 : création des thèmes  
+Jour 5 : création des thèmes : couleurs potentielles de l'echequier  (vert, gris, bleu , marron)
 
-
-Jour 6 :création de la touche pour restart la game 
+Jour 6 :création de la touche pour restart la game et fin de la creation des themes 
 
 
 Jour 7 : apprentissage du reinceforcement learning 
