@@ -17,12 +17,12 @@
 
 - piece : piece.py
 
--sound : sound.py
+- sound : sound.py
 
 - game : game.py
 
 - couleur : color.py
-- 
+
 - pouvoir redémarrer la partie en cliquant sur la touche 'esc' 
 
 - pouvoir changer de thèmes en cliquant sur la touche 'barre d'espace ' 
