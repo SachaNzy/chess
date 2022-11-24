@@ -50,24 +50,24 @@
 
 
 
-Jour 20/10/22 :  création du fichier main et importation de toute les bibliotheque
+Jour 22/10/22 :  création du fichier main et importation de toute les bibliotheque
 
-Jour 21/10/22 : abandon de l’interface graphique donc je commence l’importation des pions et leur mouvement 
+Jour 23/10/22 : abandon de l’interface graphique donc je commence l’importation des pions et leur mouvement 
 
-Jour 22/10/22 : création des possibilité de mouvement 
+Jour 24/10/22 : création des possibilité de mouvement 
 
-Jour 23/10/22 : je fini les mouvement 
+Jour 25/10/22 : je fini les mouvement 
 
-Jour 24/10/22 : création des thèmes : couleurs potentielles de l'echequier  (vert, gris, bleu , marron)
+Jour 26/10/22 : création des thèmes : couleurs potentielles de l'echequier  (vert, gris, bleu , marron)
 
-Jour 25/10/22 :création de la touche pour restart la game et fin de la creation des themes 
+Jour 27/10/22 :création de la touche pour restart la game et fin de la creation des themes 
 
 
-Jour 26/10/22 : apprentissage du reinceforcement learning 
+Jour 28/10/22 : apprentissage du reinceforcement learning 
 
-Jour 27/10/22: abandon de l’apprentissage et création de contour lorsque la souris passe sur la case 
+Jour 29/10/22: abandon de l’apprentissage et création de contour lorsque la souris passe sur la case 
 
-jour 28/10/22 a 29/10/22 : perfectioner le jeu comme ajout de son etc...
+jour 30/10/22 a 31/10/22 : perfectioner le jeu comme ajout de son etc...
 
 
 
