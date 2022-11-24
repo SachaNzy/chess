@@ -50,24 +50,24 @@
 
 
 
-Jour 1 :  création du fichier main et importation de toute les bibliotheque
+Jour 1// :  création du fichier main et importation de toute les bibliotheque
 
-Jour 2 : abandon de l’interface graphique donc je commence l’importation des pions et leur mouvement 
+Jour 2// : abandon de l’interface graphique donc je commence l’importation des pions et leur mouvement 
 
-Jour 3 : création des possibilité de mouvement 
+Jour 3// : création des possibilité de mouvement 
 
-Jour 4 : je fini les mouvement 
+Jour 4// : je fini les mouvement 
 
-Jour 5 : création des thèmes : couleurs potentielles de l'echequier  (vert, gris, bleu , marron)
+Jour 5// : création des thèmes : couleurs potentielles de l'echequier  (vert, gris, bleu , marron)
 
-Jour 6 :création de la touche pour restart la game et fin de la creation des themes 
+Jour 6// :création de la touche pour restart la game et fin de la creation des themes 
 
 
-Jour 7 : apprentissage du reinceforcement learning 
+Jour 7// : apprentissage du reinceforcement learning 
 
-Jour 8 : abandon de l’apprentissage et création de contour lorsque la souris passe sur la case 
+Jour 8//: abandon de l’apprentissage et création de contour lorsque la souris passe sur la case 
 
-jour 9 a 11 : perfectioner le jeu comme ajout de son etc...
+jour 9// a 11// : perfectioner le jeu comme ajout de son etc...
 
 
 
