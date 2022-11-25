@@ -7,9 +7,9 @@
 <h1 align="center">CHAISS</h1>
 <h3 align="center">♟️</h3>
 
-- ceci est un jeu d'echec ordinaire avec quelque specifictés : 
+- ceci est un jeu d'echec ordinaire avec quelques specifictés : 
 
-- le jeu s'execute dans la fichier main.py
+- le jeu s'execute dans le fichier main.py
 
 - les themes sont appelés dans le fichier theme.py mais construit dans le fichier config.py
 
