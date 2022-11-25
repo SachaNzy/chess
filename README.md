@@ -31,9 +31,9 @@
 
 - des aides sont situées comme les déplacements possible d'un pion 
 
-- des bruitage sont rajouté pour les deplacement ou encore quand un pion a été manger
+- des bruitages sont rajoutés pour les deplacements ou encore quand un pion a été mangé
 
-- vous pouvez roquer(Pour roquer, bougez le roi de 2 cases vers la droite pour un petit roque, 2 cases vers la gauche pour un grand roque. - ni le roi ni la tour ne doivent avoir quitté leur position initiale.)
+- vous pouvez roquer(Pour roquer, bougez le roi de 2 cases vers la droite pour un petit roque, 2 cases vers la gauche pour un grand roque. - ni le roi ni la tour ne doivent avoir quitter leur position initiale.)
 <h1 align="center">RULES</h1>
 <h3 align="center">📁</h3>
 
@@ -50,13 +50,13 @@
 
 
 
-Jour 22/10/22 :  création du fichier main et importation de toute les bibliotheque
+Jour 22/10/22 :  création du fichier main et importation de toutes les bibliotheques
 
-Jour 23/10/22 : abandon de l’interface graphique donc je commence l’importation des pions et leur mouvement 
+Jour 23/10/22 : abandon de l’interface graphique donc je commence l’importation des pions et leurs mouvements 
 
-Jour 24/10/22 : création des possibilité de mouvement 
+Jour 24/10/22 : création des possibilitées de mouvements 
 
-Jour 25/10/22 : je fini les mouvement 
+Jour 25/10/22 : je fini les mouvements 
 
 Jour 26/10/22 : création des thèmes : couleurs potentielles de l'echequier  (vert, gris, bleu , marron)
 
