@@ -29,7 +29,7 @@
 
 - lorsqu'un pion atteint la derniere case celui ci se transforme en reine 
 
-- des aides sont situé comme les déplacement possible d'un pion 
+- des aides sont situées comme les déplacements possible d'un pion 
 
 - des bruitage sont rajouté pour les deplacement ou encore quand un pion a été manger
 
